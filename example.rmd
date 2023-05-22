@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 
 
 
 
 
 #COnclusion
+=======
+#Title 
+This is the title
+>>>>>>> branch2
